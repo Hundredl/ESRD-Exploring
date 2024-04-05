@@ -1,0 +1,12 @@
+loguru
+argparse
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+openpyxl==3.1.2
+ipykernel
+lifelines==0.28.0
+tqdm
+statsmodels
