@@ -7,6 +7,6 @@ matplotlib
 scikit-learn
 openpyxl==3.1.2
 ipykernel
-lifelines==0.28.0
+lifelines==0.27.8
 tqdm
 statsmodels

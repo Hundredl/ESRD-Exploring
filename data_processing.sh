@@ -1,4 +1,4 @@
-data_path_root='./'
+data_path_root='./esrd'
 python ${data_path_root}/src/data_visit.py \
     --origin_data_path ${data_path_root}/origin/ckd/ \
     --data_path ${data_path_root}/processed/ \

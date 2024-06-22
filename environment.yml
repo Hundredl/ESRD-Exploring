@@ -1,4 +1,4 @@
-name: esrd_r
+name: esrd_r4
 channels:
   - defaults
 dependencies:
