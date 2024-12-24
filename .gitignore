@@ -2,3 +2,5 @@
 esrd/
 result/
 data/
+*/venv/*
+oryx-build-commands.txt
