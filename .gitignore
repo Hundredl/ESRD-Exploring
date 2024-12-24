@@ -1,6 +1,8 @@
-*/__pycache__/*
+__pycache__/
 esrd/
 result/
 data/
-*/venv/*
+*/venv/
+venv/
 oryx-build-commands.txt
+*.pyc
